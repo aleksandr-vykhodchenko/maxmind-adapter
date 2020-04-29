@@ -1,0 +1,14 @@
+{
+  "name": "aleksandr-vykhodchenko/maxmind-adapter",
+  "description": "aleksandr-vykhodchenko maxmind-adapter",
+  "autoload": {
+    "psr-4": {
+      "Aleksandr\\Maxmind\\": "src/"
+
+    }
+
+  }
+
+
+
+}
